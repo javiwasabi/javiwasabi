@@ -1,57 +1,113 @@
-Hi there, I'm Javiera 👋
-Software Engineer | Full-Stack | React | Go | Cloud
+```md
+# Hi there, I'm Javiera 👋
 
-Computer Science Engineer from Universidad Técnica Federico Santa María passionate about building scalable web applications, designing intuitive frontends, and robust backend services. Experienced across the full stack, cloud environments (Azure, AWS), and DevOps tooling.
+### Software Engineer | Full-Stack Developer | React • Node.js • Cloud
 
-Currently focused on:
+Computer Science Engineering student at Universidad Técnica Federico Santa María passionate about building scalable web applications, modern user experiences, and robust backend systems.
 
-*   **Full-Stack Development:** Crafting end-to-end solutions.
-*   **Frontend Engineering:** Building engaging and responsive user interfaces with React/TypeScript.
-*   **Backend Development:** Developing efficient APIs with Node.js, FastAPI, and Go.
-*   **Cloud & DevOps:** Deploying and managing applications on Azure, AWS, and GCP.
-*   **AI Tools & Integrations:** Leveraging AI APIs like ChatGPT and Claude in applications.
+I enjoy working across the full stack — from frontend architecture and UI/UX design to backend APIs, cloud infrastructure, DevOps workflows, and AI integrations.
 
-🚀 About Me
+---
 
-*   💻 Software Engineer passionate about solving real-world problems through robust web solutions.
-*   ✨ Expertise in interactive frontend design and scalable backend development.
-*   ☁️ Experienced with cloud platforms (Azure, AWS) and DevOps practices.
-*   🛠️ Skilled in building and deploying full-stack applications independently and collaboratively.
+## 🚀 About Me
 
-🧠 Technologies & Tools
+- 💻 Full-Stack Software Engineer focused on modern web technologies
+- ⚛️ Frontend development with React, TypeScript, and responsive UI systems
+- 🔧 Backend/API development using Node.js, FastAPI, and Go
+- ☁️ Cloud & DevOps experience with Azure, AWS, Docker, CI/CD, and deployments
+- 🤖 Interested in AI-powered applications and developer productivity tools
+- 🛠️ Comfortable building and deploying end-to-end applications independently
 
-**Languages:**
-Go | TypeScript | Python | JavaScript | SQL | Java | C++ | Kotlin
+---
 
-**Frontend:**
-React | React Native | Vue.js | Vite | HTML/CSS
+## 🧠 Tech Stack
 
-**Backend & APIs:**
-Node.js | Express | FastAPI | REST APIs
+### Languages
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 
-**Cloud & DevOps:**
-AWS | Azure | Docker | CI/CD | GitHub Actions | Vercel | Render
+---
 
-**Databases:**
-PostgreSQL | MySQL | MongoDB | MariaDB
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-**AI Tools:**
-ChatGPT | Claude | AI APIs
+---
 
-📈 Current Interests
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
 
-*   Scalable Web Architectures
-*   Cloud-Native Development
-*   Modern Frontend Frameworks
-*   Backend Performance Optimization
-*   Integrating AI into applications
-*   DevOps Best Practices
+---
 
-📫 Contact
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI/CD-000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render)
 
-*   📧 Email: javiera.osr@gmail.com
-*   🌎 Location: Santiago, Chile
-*   💼 LinkedIn: [linkedin.com/in/javiera-osorio-mardones](https://www.linkedin.com/in/javiera-osorio-mardones)
+---
 
-⚡ Fun Fact
-I enjoy transforming complex requirements into elegant and functional web solutions, always with an eye on user experience and maintainability.
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)
+
+---
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI_APIs-000?style=for-the-badge)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 1st Place — USM Software Fair
+- 🚀 Experience deploying production-ready full-stack applications
+- ☁️ Cloud deployment experience with Azure, AWS, Vercel, and Render
+- 🤝 Experience collaborating in fast-paced software projects
+
+---
+
+## 📈 Current Interests
+
+- Scalable Web Architectures
+- Cloud-Native Development
+- Modern Frontend Engineering
+- Backend Performance Optimization
+- AI-powered Applications
+- DevOps & Automation
+
+---
+
+## 📫 Contact
+
+- 📧 Email: javiera.osr@gmail.com
+- 💼 LinkedIn:  
+  https://linkedin.com/in/javiera-osorio-mardones-a7277128b
+- 🌎 Location: Santiago, Chile
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming complex requirements into elegant and maintainable software solutions while keeping user experience at the center of development.
+```
