@@ -1,4 +1,4 @@
-```md
+
 # Hi there, I'm Javiera 👋
 
 ### Software Engineer | Full-Stack Developer | React • Node.js • Cloud
@@ -110,4 +110,4 @@ I enjoy working across the full stack — from frontend architecture and UI/UX d
 ## ⚡ Fun Fact
 
 I enjoy transforming complex requirements into elegant and maintainable software solutions while keeping user experience at the center of development.
-```
+
